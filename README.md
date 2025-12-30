@@ -48,6 +48,3 @@ In progress:
 4. Upload Arduino code
 5. Run: `python main.py`
 
-## License
-
-MIT
